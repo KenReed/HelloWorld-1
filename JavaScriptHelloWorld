@@ -5,7 +5,9 @@
 <br>
 <script type="text/javascript"> 
 
-document.write("bitch please");
+document.write("Ok seems to work");
+
+document.write("Buy more mancow");
 
 </script>
 
