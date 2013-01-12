@@ -1,0 +1,16 @@
+<html>
+<body>
+
+<a href="http://www.google.ca/"> This is what it says on the webpage </a> 
+<br>
+<script type="text/javascript"> 
+
+document.write("Ok seems to work");
+
+document.write("Buy more mancow");
+document.write(<br>"this is a fork attempt"<br>);
+
+</script>
+
+</body>
+</html>
